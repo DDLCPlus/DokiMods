@@ -5,5 +5,5 @@ A list of community made mods, all mods here are used for the mods manager. Or y
 To submit a mod open an issue which includes a link to your mod's repository on github (code only, and must have assets/scripts in the repository hierarchy somewhere)
 Then we will verify that your mod isn't malicious, build it and include a version ready to drag & drop in the DokiMods repository soon after.
 
-# Update a mod here
+# Update a mod
 To update your mod, open another issue and the same process done initially to validate your mod will be repeated.
