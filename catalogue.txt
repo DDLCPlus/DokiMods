@@ -1,0 +1,3 @@
+NAME|AUTHOR|VERSION
+-------------------
+DokiModTest|Doki Dev Team|1.0
